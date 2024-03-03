@@ -1,2 +1,2 @@
 # Baseball_Stuff
-Personal project to use newly found data skills to analyze baseball data
+Project to analyze baseball data from the 2023 MLB season
