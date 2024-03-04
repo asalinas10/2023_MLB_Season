@@ -33,3 +33,20 @@ I then created visulizations that displayed Homeruns, RBI's, Strike Outs, Battin
 ![alt text](<Screen Shot 2024-03-03 at 12.20.31 PM.png>)
 
 ![alt text](<Screen Shot 2024-03-03 at 12.21.41 PM.png>)
+
+
+Pitchers:
+
+I first filtered the data to only include pitchers with at least 100 innings pitched.
+
+I created a summary table that displayed each teams average ERA, WHIP, and Win's.
+
+![alt text](<Screen Shot 2024-03-04 at 12.37.29 PM.png>)
+
+I then created visualizations that displayed this statistical categories.
+
+![alt text](<Screen Shot 2024-03-04 at 12.40.16 PM.png>)
+
+![alt text](<Screen Shot 2024-03-04 at 12.40.34 PM.png>)
+
+![alt text](<Screen Shot 2024-03-04 at 12.40.58 PM.png>)
